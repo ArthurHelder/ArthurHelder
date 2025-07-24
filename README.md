@@ -1,16 +1,22 @@
-## Hi there 👋
+# 👋 Olá! Eu sou o Arthur Helder
 
-<!--
-**ArthurHelder/ArthurHelder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Estudante de Análise e Desenvolvimento de Sistemas (UNIP)  
+💻 Foco em desenvolvimento Java, lógica de programação e automação  
+🔍 Buscando minha primeira oportunidade na área de Tecnologia  
+📚 Sempre em evolução e aberto a novos aprendizados
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+- **Linguagens:** Java (POO), HTML, CSS  
+- **Banco de Dados:** Noções de SQL | MySQL e PostgreSQL  
+- **Ferramentas:** Git, GitHub, Excel, Power BI *(em aprendizado)*  
+- **Outros:** SEI, Pacote Office, Metodologias Ágeis (Scrum)
+
+---
+
+## 📫 Contato
+
+- ✉️ Email: aaarthur.helder08@gmail.com
+- 🔗 LinkedIn: [Arthur Helder](www.linkedin.com/in/arthurhelder)
