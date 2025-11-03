@@ -9,10 +9,11 @@
 
 ## Tecnologias e Ferramentas
 
-- **Linguagens:** Java (POO), HTML, CSS  
-- **Banco de Dados:** Noções de SQL | MySQL e PostgreSQL  
-- **Ferramentas:** Git, GitHub, Excel, Power BI *(em aprendizado)*  
-- **Outros:** SEI, Pacote Office, Metodologias Ágeis (Scrum)
+- **Linguagens:** Java (POO), HTML, SQL
+- **Banco de Dados:** MySQL, PostgreSQL (básico)
+- **Ferramentas:** Azure DevOps, Excel (intermediário)
+- **Metodologias:** Scrum, Kanban (uso diário)
+- **Outros:** Lógica, Algoritmos, Estrutura de Dados
 
 ---
 
